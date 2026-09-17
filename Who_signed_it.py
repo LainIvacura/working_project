@@ -1,4 +1,4 @@
-from support_citadel import ConnectionFactory
+from supp_adel import ConnectionFactory
 from datetime import timedelta
 
 cf = ConnectionFactory()
